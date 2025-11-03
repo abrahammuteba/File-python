@@ -1,5 +1,5 @@
-user = "abraham"
-password = "abraham123"
+user = "abraham"  #variable
+password = "abraham123"   #variable
 
 print ("___________________LA PAGE DE CONNEXION____________________") 
 
